@@ -33,9 +33,9 @@
   },
   "homepage": "https://github.com/asyncapi/template-for-generator-templates#readme",
   "dependencies": {
-    "@asyncapi/generator-filters": "^1.1.0",
+    "@asyncapi/generator-filters": "^2.0.0",
     "@asyncapi/generator-hooks": "^0.1.0",
-    "@asyncapi/generator-react-sdk": "^0.2.6",
+    "@asyncapi/generator-react-sdk": "^0.2.11",
     "puppeteer": "^5.2.1"
   },
   "release": {
@@ -92,8 +92,8 @@
     }
   },
   "devDependencies": {
-    "@asyncapi/generator": "^1.6.11",
-    "@asyncapi/parser": "^1.5.0",
+    "@asyncapi/generator": "^1.8.0",
+    "@asyncapi/parser": "^1.6.0",
     "@semantic-release/commit-analyzer": "^8.0.1",
     "@semantic-release/github": "^7.0.7",
     "@semantic-release/npm": "^7.0.5",
